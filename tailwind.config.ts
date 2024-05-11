@@ -13,6 +13,7 @@ const config: Config = {
         oil: "#080808",
         midnight: "#121318",
         charcoal: "#9295A6",
+        stone: "#6A7080",
       },
     },
   },
